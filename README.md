@@ -5,8 +5,8 @@ This project focuses on DOM manipulation, game logic, and smooth user interactio
 
 ---
 
-## 🌐 Live Demo
-👉 https://abelshaji3-boop.github.io/tic-tac-toe/
+## 🌐 Live Demo 
+[👉Click here to view](https://abelshaji3-boop.github.io/tic-tac-toe/)
 
 ---
 
