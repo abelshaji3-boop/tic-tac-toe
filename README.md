@@ -28,6 +28,6 @@ This project focuses on DOM manipulation, game logic, and smooth user interactio
 ---
 
 ## 📸 Preview
-![Game Screenshot](ss/Screenshot 2026-04-16 013353.png)
+![Game Screenshot](ss/ss.png)
 
 ---
