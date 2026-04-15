@@ -6,7 +6,7 @@ This project focuses on DOM manipulation, game logic, and smooth user interactio
 ---
 
 ## 🌐 Live Demo
-👉 https://abelshaji3-boop.github.io/Calculator/
+👉 https://abelshaji3-boop.github.io/tic-tac-toe/
 
 ---
 
@@ -28,6 +28,6 @@ This project focuses on DOM manipulation, game logic, and smooth user interactio
 ---
 
 ## 📸 Preview
-(Add screenshot here later)
+(C:\Users\lenova\Desktop\MERN STACK\Mini-projects\TIC TAC TOE\ss\Screenshot 2026-04-16 013353.png)
 
 ---
