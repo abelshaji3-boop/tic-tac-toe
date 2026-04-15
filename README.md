@@ -28,6 +28,6 @@ This project focuses on DOM manipulation, game logic, and smooth user interactio
 ---
 
 ## 📸 Preview
-(C:\Users\lenova\Desktop\MERN STACK\Mini-projects\TIC TAC TOE\ss\Screenshot 2026-04-16 013353.png)
+(https://github.com/abelshaji3-boop/tic-tac-toe/commit/3e83e43aa0e9f092b21ef2c393d4b33a61d4cd84#diff-545bba7da966294d75585b71a7291e9ce36a40604127a025b6f7fc45d4105260)
 
 ---
